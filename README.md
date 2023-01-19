@@ -7,3 +7,9 @@ this is the app shell to run the design system toolbox react-native components
 
 yarn install && npx react-native run-ios 
 
+
+
+## Storybook updates.
+
+stories are automatically updated after postinstall. If you want to use the latest toolbox-rn, you must bump its version
+and postinstall will automatically add new stories
